@@ -18,5 +18,6 @@ while(pelataanko == "kyllä"):
 
 print("ei sitten. heihei")
 
+#hyvää työtä!
 
 

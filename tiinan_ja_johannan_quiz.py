@@ -1,3 +1,4 @@
+
 #tehtiin tänne hieno ohjelma
 
 pelataanko = input("Haluatko pelata? (kyllä,ei) ")
@@ -16,5 +17,6 @@ while(pelataanko == "kyllä"):
     pelataanko = input("Haluatko pelata uudestaan? kyllä/ei ")
 
 print("ei sitten. heihei")
+
 
 

@@ -18,5 +18,5 @@ while(pelataanko == "kyllä"):
 
 print("ei sitten. heihei")
 
-
+#hieno ohjelma. t:LeXa
 

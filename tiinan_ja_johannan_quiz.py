@@ -2,7 +2,7 @@
 #tehtiin tänne hieno ohjelma
 
 pelataanko = input("Haluatko pelata? (kyllä,ei) ")
-kysymykset = {"Onko kissat kivoja? kyllä/ei ":"kyllä", "Onko koirat kivoja? kyllä/ei ":"kyllä"}
+kysymykset = {"Onko kaljut kissat kivoja? kyllä/ei ":"kyllä", "Onko isot koirat kivoja? kyllä/ei ":"kyllä",}
 
 while(pelataanko == "kyllä"):
     pisteet = 0
